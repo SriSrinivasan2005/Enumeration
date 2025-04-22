@@ -32,6 +32,7 @@ Google hacking, also known as Google dorking, is a technique that involves using
 
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
+
 ![1](https://github.com/user-attachments/assets/72193219-2516-4520-a47c-f369b93b7586)
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
@@ -41,6 +42,7 @@ Following searches for pdf file in the domain yahoo.com
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
+
 ![3](https://github.com/user-attachments/assets/5cb84e3f-53ed-4a8c-8c00-9682a23a0017)
 
 
@@ -92,6 +94,7 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+
 ![10](https://github.com/user-attachments/assets/cf323191-1095-448f-b01c-c15789c105ce)
 
 
